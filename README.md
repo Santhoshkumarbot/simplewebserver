@@ -86,6 +86,6 @@ httpd.serve_forever()
 ![alt text](481616889_1392599598580430_2178610269567281601_n.png)
 ![alt text](483240455_1450705402561278_8677631854158281705_n.png)
 
-
+ SANTHOSHKUMAR P(212224220055)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
